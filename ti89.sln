@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ti89", "ti89\ti89.csproj", "{2CEBA5C9-6BA9-4706-BFF6-254047AD1B1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CEBA5C9-6BA9-4706-BFF6-254047AD1B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEBA5C9-6BA9-4706-BFF6-254047AD1B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CEBA5C9-6BA9-4706-BFF6-254047AD1B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEBA5C9-6BA9-4706-BFF6-254047AD1B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EF4C09F-3EFF-46AE-B51D-50732793D564}
+	EndGlobalSection
+EndGlobal
